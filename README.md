@@ -8,7 +8,7 @@ For the TypeScript version check out [tsrr-boiler.](https://github.com/LiamRoss/
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-#### Prerequisites
+### Prerequisites
 
 You will need node, and either npm or yarn installed for managing packages.
 
@@ -19,7 +19,7 @@ $npm -v
 $yarn -v
 ```
 
-#### Installing
+### Installing
 
 Clone the repository to your local machine
 
