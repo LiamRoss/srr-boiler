@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+
+import World from './World';
+import '../stylesheets/App.scss';
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <World />
+      </div>
+    );
+  }
+}
+
+export default App;

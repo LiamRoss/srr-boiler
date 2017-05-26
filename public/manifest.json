@@ -1,0 +1,13 @@
+{
+  "short_name": "JS Boilerplate",
+  "name": "React-Redux Boilerplate (JavaScript)",
+  "icons": [
+    {
+      // your site's icon here
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
